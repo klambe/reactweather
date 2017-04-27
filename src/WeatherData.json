@@ -1,0 +1,68 @@
+{
+  "DUBLIN": {
+    "current": {
+      "summary": "Cloudy",
+      "temperature": "10",
+      "description": "Clouds giving way to some sun with a couple of showers"
+    },
+    "today": {
+      "summary": "Cloudy",
+      "temperature": "11",
+      "description": "Cloudy with showers. Clearing later today with some sun in the late afternoon"
+    },
+    "tonight": {
+      "summary": "Clear",
+      "temperature": "3",
+      "description": "Mostly clear and chilly. Freezing temperatures in the normally colder spots"
+    },
+    "tomorrow": {
+      "summary": "Rain",
+      "temperature": "5",
+      "description": "Heavy rain, occasionaly windy"
+    }
+  },
+  "LONDON": {
+    "current": {
+      "summary": "Sunny",
+      "temperature": "14",
+      "description": "Sunny with a comfortable temperature"
+    },
+    "today": {
+      "summary": "Sunny",
+      "temperature": "12",
+      "description": "Mostly sunny with some wind coming later in the evening"
+    },
+    "tonight": {
+      "summary": "Cloudy",
+      "temperature": "7",
+      "description": "Cloudy and chilly, no wind"
+    },
+    "tomorrow": {
+      "summary": "Cloudy",
+      "temperature": "11",
+      "description": "Mostly cloudy but no wind during the day"
+    }
+  },
+  "NEW_YORK": {
+    "current": {
+      "summary": "Sunny",
+      "temperature": "17",
+      "description": "Mostly sunny, wind going away"
+    },
+    "today": {
+      "summary": "Sunny",
+      "temperature": "18",
+      "description": "Clear sky with lots of sun and warmth"
+    },
+    "tonight": {
+      "summary": "Clear",
+      "temperature": "10",
+      "description": "Cloudy and chilly, no wind"
+    },
+    "tomorrow": {
+      "summary": "Sunny",
+      "temperature": "19",
+      "description": "Clear sky with lots of sun and warmth"
+    }
+  }
+}
